@@ -29,5 +29,5 @@ Welcome to my **Data Portfolio**, a collection of data analytics and data scienc
 
 ### **Contact**
 Feel free to reach out for collaboration or inquiries:
-- **Email**: your_email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **Email**: rafisyafrinaldi17@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-rafi-syafrinaldi
