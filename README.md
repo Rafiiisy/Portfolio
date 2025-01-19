@@ -21,7 +21,7 @@ Welcome to my **Data Portfolio**, a collection of data analytics and data scienc
 
 ---
 
-### 3. [Ecommerce Modern Data Warehouse Pipeline](https://github.com/Rafiiisy/Enhancing-eCommerce-Customer-Service-with-Data-Analytics)
+### 3. [Ecommerce Modern Data Warehouse Pipeline](https://github.com/Rafiiisy/Ecommerce-Modern-Data-Warehouse-Pipeline)
 **Technologies**: Apache Spark, Hadoop, Tableau  
 **Summary**: Built a modern data warehouse pipeline for eCommerce data, integrating real-time and batch data using Spark and Hadoop. Designed a Tableau dashboard for reporting key metrics like sales trends and customer segmentation.
 
