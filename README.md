@@ -1,4 +1,4 @@
-# Data Portfolio
+# Portfolio
 
 Welcome to my **Data Portfolio**, a collection of data analytics and data science projects showcasing my skills in data cleaning, analysis, and visualization. Below are the projects included in this portfolio:
 
